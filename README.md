@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Birthday Invitation</title>
-    <style>
+    <style> {
+        .profile pic 
+        width: 200;
+        height: 200;
+        }
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
@@ -55,15 +59,14 @@
         <header>
             <h2>YOU ARE INVITED TO</h2>
         </header>
-        
         <figure>
-            <img src="your-photo.jpg" alt="Birthday person">
+            <img src="Snapchat- 140164616.jpg" alt="Birthday person">
         </figure>
 
         <section>
             <h1>Angelie T. Fatalla</h1>
             <p>17th Birthday Party</p>
-            <p><strong>MARCH 8</strong> | <strong>SUNDAY</strong> | <strong>10:00 am</strong></p>
+            <p><strong>MARCH 8</strong> | <strong>1140SUNDAY</strong> | <strong>10:00 am</strong></p>
             <p><strong>Villa Verde Private Resort</strong><br>Daang Maynila, Lilit, Silang, Cavite</p>
         </section>
     </main>
