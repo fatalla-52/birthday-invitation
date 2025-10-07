@@ -60,7 +60,7 @@
             <h2>YOU ARE INVITED TO</h2>
         </header>
         <figure>
-            <img src="Snapchat- 140164616.jpg" alt="Birthday person">
+            <img src=".//Snapchat- 140164616.jpg" alt="Birthday person">
         </figure>
 
         <section>
