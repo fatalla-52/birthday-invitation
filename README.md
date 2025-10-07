@@ -22,32 +22,20 @@
             padding: 30px;
             box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
         }
-
         header h2 {
             font-size: 24px;
             font-weight: bold;
             margin-bottom: 20px;
         }
-
-        figure img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            margin-bottom: 20px;
-        }
-
         section h1 {
             font-size: 32px;
             font-weight: bold;
             margin-bottom: 10px;
         }
-
         section p {
             font-size: 18px;
             margin: 5px 0;
         }
-
         section p strong {
             font-size: 20px;
             color: #005f6a;
@@ -62,7 +50,6 @@
         <figure>
             <img src=".//Snapchat- 140164616.jpg" alt="Birthday person">
         </figure>
-
         <section>
             <h1>Angelie T. Fatalla</h1>
             <p>17th Birthday Party</p>
