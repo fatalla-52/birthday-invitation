@@ -32,14 +32,6 @@
             margin-bottom: 20px;
         }
 
-        figure img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            margin-bottom: 20px;
-        }
-
         section h1 {
             font-size: 32px;
             font-weight: bold;
