@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Birthday Invitation</title>
-    <style>
+    <style>. {
+  width="150"
+  height="150"
+}
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
