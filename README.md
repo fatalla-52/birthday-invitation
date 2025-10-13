@@ -46,7 +46,7 @@
             <h2>YOU ARE INVITED TO</h2>
         </header>
         <figure>
-            <img src=".//Snapchat-140160416.jpg" alt="Angelie T. 
+            <img src=".//db9c7930-9fbc-408b-8f0c-a8d38ad62975.jpg" alt="Angelie T. 
 Fatalla">
         </figure>
         <section>
