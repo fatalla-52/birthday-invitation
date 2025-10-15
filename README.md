@@ -10,7 +10,7 @@
       background: linear-gradient(to bottom, #ffffff, #d7ecff);
       color: #0a1a2f;
     }
-        .invitation {
+      .invitation {
       max-width: 600px;
       margin: auto;
       background: #fff;
