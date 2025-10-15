@@ -10,18 +10,17 @@
       background: linear-gradient(to bottom, #ffffff, #d7ecff);
       color: #0a1a2f;
     }
-
+        .invitation {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 40px;
+      }
     .invitation img {
       width: 150px;
       height: 150px;
     }
 
-    .invitation {
-      max-width: 600px;
-      margin: auto;
-      background: #fff;
-      padding: 40px;
-        }
     h1 {
       margin: 15px 0 5px;
       font-size: 32px;
