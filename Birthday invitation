@@ -8,9 +8,6 @@
     body {
       font-family: 'Georgia', serif;
       background: linear-gradient(to bottom, #ffffff, #d7ecff);
-      text-align: center;
-      margin: 0;
-      padding: 50px;
       color: #0a1a2f;
     }
 
@@ -24,8 +21,6 @@
     .invitation img {
       width: 150px;
       height: 150px;
-      border-radius: 50%;
-      object-fit: cover;
     }
 
     h1 {
