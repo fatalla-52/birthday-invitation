@@ -8,9 +8,6 @@
     body {
       font-family: 'Georgia', serif;
       background: linear-gradient(to bottom, #ffffff, #d7ecff);
-      text-align: center;
-      margin: 0;
-      padding: 50px;
       color: #0a1a2f;
     }
 
@@ -19,15 +16,11 @@
       margin: auto;
       background: #fff;
       padding: 40px;
-      border-radius: 15px;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     }
 
     .invitation img {
       width: 150px;
       height: 150px;
-      border-radius: 50%;
-      object-fit: cover;
     }
 
     h1 {
@@ -68,7 +61,7 @@
 <body>
   <div class="invitation">
     <p class="top-text">YOU ARE INVITED TO</p>
-    <img src="your-photo.jpg" alt="Birthday Girl">
+    <img src="b5a5862e-e6bb-4df2-a56c-21f502dd3a36.jpg" alt="Angelie Fatalla">
     <h1>Angelie T. Fatalla</h1>
     <h2>17TH BIRTHDAY PARTY</h2>
 
