@@ -1,60 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Birthday Invitation</title>
-    <style>. {
-    pricture 
-    width="150"
-    height="150"
-        }
-        body {
-            font-family: Arial, sans-serif;
-        }
-        main {
-            background-color: #a6d1e5;
-            border-radius: 15px;
-            width: 80%;
-            max-width: 600px;
-            text-align: center;
-            padding: 30px;
-        }
-        header h2 {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-        section h1 {
-            font-size: 32px;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-         section p {
-            font-size: 18px;
-            margin: 5px 0;
-        }
-        section p strong {
-            font-size: 20px;
-            color: #005f6a;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Birthday Invitation</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background: linear-gradient(to bottom, #ffffff, #d7ecff);
+      text-align: center;
+      margin: 0;
+      padding: 50px;
+      color: #0a1a2f;
+    }
+
+    .invitation {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+
+    .invitation img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    h1 {
+      margin: 15px 0 5px;
+      font-size: 32px;
+    }
+
+    h2 {
+      margin: 0;
+      font-weight: normal;
+      letter-spacing: 2px;
+    }
+
+    p {
+      margin: 10px 0;
+      line-height: 1.5;
+    }
+
+    .date {
+      margin: 20px 0;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .rsvp {
+      margin-top: 25px;
+      font-size: 16px;
+    }
+
+    .top-text {
+      letter-spacing: 2px;
+      color: #3b4a5a;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+  </style>
 </head>
 <body>
-    <main>
-        <header>
-            <h2>YOU ARE INVITED TO</h2>
-        </header>
-        <figure>
-            <img src=".//db9c7930-9fbc-408b-8f0c-a8d38ad62975.jpg" alt="Angelie T. 
-Fatalla">
-        </figure>
-        <section>
-            <h1>Angelie T. Fatalla</h1>
-            <p>17th Birthday Party</p>
-            <p><strong>MARCH 8</strong> | <strong>SUNDAY</strong> | <strong>10:00 am</strong></p>
-            <p><strong>Villa Verde Private Resort</strong><br>Daang Maynila, Lilit, Silang, Cavite</p>
-        </section>
-    </main>
+  <div class="invitation">
+    <p class="top-text">YOU ARE INVITED TO</p>
+    <img src="your-photo.jpg" alt="Birthday Girl">
+    <h1>Angelie T. Fatalla</h1>
+    <h2>17TH BIRTHDAY PARTY</h2>
+
+    <div class="date">
+      <p>SUNDAY, MARCH 8 • 10:00 AM</p>
+    </div>
+
+    <p>
+      Villa Verde Private Resort, Daang Maynilaan,<br>
+      Lilith, Silang, Cavite
+    </p>
+
+    <p class="rsvp">
+      RSVP to Angelie at 0926 722 6739
+    </p>
+  </div>
 </body>
-</html>            
+</html>
+Write to Angie Fatalla
