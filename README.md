@@ -16,6 +16,12 @@
       height: 150px;
     }
 
+    .invitation {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 40px;
+        }
     h1 {
       margin: 15px 0 5px;
       font-size: 32px;
