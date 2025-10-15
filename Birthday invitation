@@ -11,13 +11,6 @@
       color: #0a1a2f;
     }
 
-    .invitation {
-      max-width: 600px;
-      margin: auto;
-      background: #fff;
-      padding: 40px;
-    }
-
     .invitation img {
       width: 150px;
       height: 150px;
