@@ -6,15 +6,18 @@
   <title>Birthday Invitation</title>
   <style>
     body {
-      font-family: arial, serif;
-      background: linear-gradient(top to bottom #ffffff, #d7ecff);
+      font-family: 'Georgia', serif;
+      background: linear-gradient(to bottom, #ffffff, #d7ecff);
+      text-align: center;
       color: #0a1a2f;
     }
-      .invitation {
+
+    .invitation {
       max-width: 600px;
       background: #fff;
       padding: 40px;
-      }
+    }
+
     .invitation img {
       width: 150px;
       height: 150px;
@@ -42,7 +45,6 @@
     }
 
     .top-text {
-      letter-spacing: 2px;
       color: #3b4a5a;
       font-size: 14px;
       margin-bottom: 20px;
@@ -52,25 +54,29 @@
 <body>
   <div class="invitation">
     <p class="top-text">YOU ARE INVITED TO</p>
-    <img src="b5a5862e-e6bb-4df2-a56c-21f502dd3a36.jpg" alt="Angelie Fatalla">
+    <img src="your-photo.jpg" alt="Birthday Girl">
     <h1>Angelie T. Fatalla</h1>
     <h2>17TH BIRTHDAY PARTY</h2>
 
     <div class="date">
       <p>SUNDAY, MARCH 8 • 10:00 AM</p>
     </div>
+
     <p>
       Villa Verde Private Resort, Daang Maynilaan,<br>
       Lilith, Silang, Cavite
     </p>
-    <div class=" bring">
-     <p>What to bring</p>
-     <p>Gift for Angelie</p>
-    <p>Good vibes and a lot of energy</p> 
-      </div>
+    <div class="bring">
+      <p>What to bring:</p>
+      <p>Gift for Angelie<br>
+         Good vibes and a lot of energy 
+      </p>
+    </div>
+
     <p class="rsvp">
       RSVP to Angelie at 0926 722 6739
     </p>
   </div>
 </body>
 </html>
+Write to Angie Fatalla
