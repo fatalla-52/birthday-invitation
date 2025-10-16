@@ -7,12 +7,12 @@
   <style>
     body {
       font-family: arial, serif;
-      background: linear-gradient(to bottom, #ffffff, #d7ecff);
+      background: linear-gradient(to bottom, #fff);
       color: #0a1a2f;
     }
       .invitation {
       max-width: 600px;
-      background: #fff;
+      background: #ffffff ;
       padding: 40px;
       }
     .invitation img {
