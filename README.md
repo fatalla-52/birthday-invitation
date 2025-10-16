@@ -27,7 +27,6 @@
     }
 
     h2 {
-      margin: 0;
       font-weight: normal;
       letter-spacing: 2px;
     }
