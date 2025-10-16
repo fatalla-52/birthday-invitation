@@ -59,17 +59,15 @@
     <div class="date">
       <p>SUNDAY, MARCH 8 • 10:00 AM</p>
     </div>
-
     <p>
       Villa Verde Private Resort, Daang Maynilaan,<br>
       Lilith, Silang, Cavite
     </p>
-    
-    <div class="What to bring">
-     <p>Gift for Angelie 
-       Good vibes and a lot of energy 
-       </p>
-
+    <div class=" bring">
+     <p>What to bring</p>
+     <p>Gift for Angelie</p>
+    <p>Good vibes and a lot of energy</p> 
+      </div>
     <p class="rsvp">
       RSVP to Angelie at 0926 722 6739
     </p>
