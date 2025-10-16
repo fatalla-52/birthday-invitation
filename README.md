@@ -12,7 +12,6 @@
     }
       .invitation {
       max-width: 600px;
-      margin: auto;
       background: #fff;
       padding: 40px;
       }
