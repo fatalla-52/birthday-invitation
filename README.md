@@ -32,11 +32,6 @@
       letter-spacing: 2px;
     }
 
-    p {
-      margin: 10px 0;
-      line-height: 1.5;
-    }
-
     .date {
       margin: 20px 0;
       font-weight: bold;
@@ -71,6 +66,11 @@
       Villa Verde Private Resort, Daang Maynilaan,<br>
       Lilith, Silang, Cavite
     </p>
+    
+    <div class="What to bring">
+     <p>Gift for Angelie 
+       Good vibes and a lot of energy 
+       </p>
 
     <p class="rsvp">
       RSVP to Angelie at 0926 722 6739
