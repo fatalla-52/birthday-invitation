@@ -54,7 +54,7 @@
 <body>
   <div class="invitation">
     <p class="top-text">YOU ARE INVITED TO</p>
-    <img src="your-photo.jpg" alt="Birthday Girl">
+    <img src="b5a5862e-e6bb-4df2-a56c-21f502dd3a36.jpg" alt="Angelie Fatalla">
     <h1>Angelie T. Fatalla</h1>
     <h2>17TH BIRTHDAY PARTY</h2>
 
