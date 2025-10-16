@@ -64,9 +64,10 @@
       Lilith, Silang, Cavite
     </p>
     <div class=" bring">
-     <p>What to bring</p>
-     <p>Gift for Angelie</p>
-    <p>Good vibes and a lot of energy</p> 
+     <p>What to bring:</p>
+     <p>Gift for Angelie<br>
+        Good vibes and a lot of energy
+        </p> 
       </div>
     <p class="rsvp">
       RSVP to Angelie at 0926 722 6739
