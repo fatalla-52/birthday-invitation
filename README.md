@@ -6,7 +6,7 @@
   <title>Birthday Invitation</title>
   <style>
     body {
-      font-family: 'Georgia', serif;
+      font-family: arial, serif;
       background: linear-gradient(to bottom, #ffffff, #d7ecff);
       color: #0a1a2f;
     }
